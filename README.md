@@ -16,7 +16,7 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nataliamangas/)
 
 
-## Knowlodge
+## Knowledge
 Tools, languages, and other things that I like to work with:
 
 <table width="320px">
