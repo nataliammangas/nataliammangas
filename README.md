@@ -9,7 +9,7 @@
 ## About me
 *  :computer: Graduated in Tourism field.
 *  :briefcase: I'm looking for a job in the area of Web Development.
-*  :woman_student:	I'm currently learning web development, focusing on Frontend development area.
+*  :woman_student:	I'm currently learning web development, focusing on Frontend development area and UX/UI Design.
 *  :computer:	Doing online courses to learn something new every day. 
 
 ###### Connect with me on:
@@ -58,6 +58,7 @@ Tools, languages, and other things that I like to work with:
 * WHIMSICAL
 * CANVA
 * DIGITAL MARKETING 
+
 
  
 ## I speak
